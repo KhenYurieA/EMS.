@@ -1,3 +1,2 @@
-![alt text](image.png)
-![alt text](screenshot.png)
-![alt text](<Screenshot.png>)
+https://i.imgur.com/i9atHAG.png
+https://i.imgur.com/5DCcvy9.png
